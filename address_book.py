@@ -90,5 +90,5 @@ while True:
     elif usr_option == 6:
         show_command_list()
     else:
-        print('Please select correct option [1-6]: ')
+        print('Please select correct option [1-7]: ')
         continue
